@@ -16,12 +16,12 @@ Before joining Imperial College London, I completed my PhD (2017) at the Researc
 ## Publications
 
 ### Submitted  
-Campbell PT, Geard NG, **Hogan AB** (2020), Modelling the household-level impact of a maternal respiratory syncytial virus (RSV) vaccine in a high-income setting.
+Campbell PT, Geard NG, **Hogan AB** (2020) Modelling the household-level impact of a maternal respiratory syncytial virus (RSV) vaccine in a high-income setting.
 
 ### Journal articles
-**Hogan AB**, Winskill P, Verity R, Griffin JT & Ghani AC (2018), Modelling population-level impact to inform target product profiles for childhood malaria vaccines. *BMC Medicine*. 16(109). 1-11. DOI: [10.1186/s12916-018-1095-6](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1095-6).
+**Hogan AB**, Winskill P, Verity R, Griffin JT & Ghani AC (2018) Modelling population-level impact to inform target product profiles for childhood malaria vaccines. *BMC Medicine*. 16(109). 1-11. DOI: [10.1186/s12916-018-1095-6](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1095-6).
   
-**Hogan AB**, Campbell PT, Blyth CC, Lim FJ, Fathima P, Davis S, Moore HC & Glass K (2017), Potential impact of a maternal vaccine for RSV: A mathematical modelling study. *Vaccine*. 35 6172–6179. DOI: [10.1016/j.vaccine.2017.09.043](https://www.sciencedirect.com/science/article/pii/S0264410X17312720?via%3Dihub).
+**Hogan AB**, Campbell PT, Blyth CC, Lim FJ, Fathima P, Davis S, Moore HC & Glass K (2017) Potential impact of a maternal vaccine for RSV: A mathematical modelling study. *Vaccine*. 35 6172–6179. DOI: [10.1016/j.vaccine.2017.09.043](https://www.sciencedirect.com/science/article/pii/S0264410X17312720?via%3Dihub).
   
 **Hogan AB** & Myerscough MR (2017) A model for the spread of an invasive weed, *Tradescantia fluminensis*. *The Bulletin of Mathematical Biology*. 1-17.  DOI: [10.1007/s11538-017-0280-7](https://link.springer.com/article/10.1007/s11538-017-0280-7).  
   
