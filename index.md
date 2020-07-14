@@ -19,6 +19,9 @@ Before joining Imperial College London, I completed my PhD (2017) at the Researc
 Campbell PT, Geard NG, **Hogan AB** (2020) Modelling the household-level impact of a maternal respiratory syncytial virus (RSV) vaccine in a high-income setting.
 
 ### Journal articles
+**Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Potential impact of the COVID-19 pandemic on HIV, tuberculosis, and malaria in low-income and middle-income countries: a modelling study. *The Lancet Global Health*. DOI: [10.1016/S2214-109X(20)30288-6](https://doi.org/10.1016/S2214-109X(20)30288-6).  
+^contributed equally  
+
 **Hogan AB**, Winskill P, Verity R, Griffin JT & Ghani AC (2018) Modelling population-level impact to inform target product profiles for childhood malaria vaccines. *BMC Medicine*. 16(109). 1-11. DOI: [10.1186/s12916-018-1095-6](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1095-6).
   
 **Hogan AB**, Campbell PT, Blyth CC, Lim FJ, Fathima P, Davis S, Moore HC & Glass K (2017) Potential impact of a maternal vaccine for RSV: A mathematical modelling study. *Vaccine*. 35 6172–6179. DOI: [10.1016/j.vaccine.2017.09.043](https://www.sciencedirect.com/science/article/pii/S0264410X17312720?via%3Dihub).
