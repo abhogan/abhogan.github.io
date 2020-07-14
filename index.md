@@ -55,4 +55,4 @@ Code is available via GitHub (https://github.com/abhogan/). All code is open sou
 
 ## Other work
 Blog post for the Thesis Whisperer, published in May 2017  
-[https://thesiswhisperer.com/2017/05/24/making-the-most-of-your-conference-money/](https://thesiswhisperer.com/2017/05/24/making-the-most-of-your-conference-money/)
+[https://thesiswhisperer.com/2017/05/24/making-the-most-of-your-conference-money/](https://thesiswhisperer.com/2017/05/24/making-the-most-of-your-conference-money/)  
