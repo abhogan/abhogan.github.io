@@ -21,7 +21,7 @@ Campbell PT, Geard NG, **Hogan AB** (2020) Modelling the household-level impact 
 ### Journal articles
 **Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Potential impact of the COVID-19 pandemic on HIV, tuberculosis, and malaria in low-income and middle-income countries: a modelling study. *The Lancet Global Health*. DOI: [10.1016/S2214-109X(20)30288-6](https://doi.org/10.1016/S2214-109X(20)30288-6).  
 ^contributed equally  
-Also available as a *Biomedical Science Journal for Kids and Teens* article [here](https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/).  
+Also available as a *Biomedical Science Journal for Kids and Teens* [article](https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/).  
 
 **Hogan AB**, Winskill P, Verity R, Griffin JT & Ghani AC (2018) Modelling population-level impact to inform target product profiles for childhood malaria vaccines. *BMC Medicine*. 16(109). 1-11. DOI: [10.1186/s12916-018-1095-6](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1095-6).
   
