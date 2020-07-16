@@ -1,13 +1,16 @@
 Imperial College Research Fellow  
 MRC Centre for Global Infectious Disease Analysis  
-Imperial College London
+Imperial College London  
 
 email: a.hogan@imperial.ac.uk  
 twitter: @alexandrabh  
 university profile: www.imperial.ac.uk/people/a.hogan  
 
+<img src="abhogan_crop.jpg" width="200" class="float-right">
+
 ## Research activities  
 I am an Imperial College Resesarch Fellow, at Imperial College London. I work on mathematical models of infectious diseases, focussed on childhood diseases and the public health impact of new vaccines. The focus of my current research is to develop dynamic models for respiratory synctial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccine in low-income settings.  
+
 
 I also work on a range of other projects related to estimating the public health impact of the RTS,S/AS01 malaria vaccine and second-generation malaria vaccines in malaria endemic areas.  
 
@@ -59,7 +62,7 @@ Zapasnik J & **Hogan AB** (editors) (2014) *The ANU Undergraduate Research Journ
 **Hogan AB** (2017), *Mathematical models for respiratory syncytial virus (RSV) transmission*. PhD thesis, Australian National University. DOI: [10.25911/5d70ec93b3047](https://openresearch-repository.anu.edu.au/handle/1885/118218).
 
 ## Code
-Code is available via GitHub (https://github.com/abhogan/). All code is open source and licensed under the MIT License.
+Code is available via [GitHub](https://github.com/abhogan/). All code is open source and licensed under the MIT License.
 
 ## Outreach and other work
 Working Group for the Effects of COVID-19 on HIV, TB and Malaria (2020) What is the impact of COVID-19 on other diseases? *Biomedical Science Journal for Kids and Teens*. Available at [https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/](https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/).  
