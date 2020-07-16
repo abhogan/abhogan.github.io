@@ -7,7 +7,7 @@ twitter: @alexandrabh
 university profile: www.imperial.ac.uk/people/a.hogan  
 
 ## Research activities  
-I work on mathematical models of infectious diseases, focussed on childhood diseases and the public health impact of new vaccines. The focus of my current research is to develop dynamic models for respiratory synctial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccine in low-income settings.  
+I am an Imperial College Resesarch Fellow, at Imperial College London. I work on mathematical models of infectious diseases, focussed on childhood diseases and the public health impact of new vaccines. The focus of my current research is to develop dynamic models for respiratory synctial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccine in low-income settings.  
 
 I also work on a range of other projects related to estimating the public health impact of the RTS,S/AS01 malaria vaccine and second-generation malaria vaccines in malaria endemic areas.  
 
@@ -21,6 +21,7 @@ Campbell PT, Geard NG, **Hogan AB** (2020) Modelling the household-level impact 
 ### Journal articles
 **Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Potential impact of the COVID-19 pandemic on HIV, tuberculosis, and malaria in low-income and middle-income countries: a modelling study. *The Lancet Global Health*. DOI: [10.1016/S2214-109X(20)30288-6](https://doi.org/10.1016/S2214-109X(20)30288-6).  
 ^contributed equally  
+Also available as a *Biomedical Science Journal for Kids and Teens* article [here](https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/).  
 
 **Hogan AB**, Winskill P, Verity R, Griffin JT & Ghani AC (2018) Modelling population-level impact to inform target product profiles for childhood malaria vaccines. *BMC Medicine*. 16(109). 1-11. DOI: [10.1186/s12916-018-1095-6](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-018-1095-6).
   
@@ -44,15 +45,26 @@ Moore HC, Jacoby P, **Hogan AB**, Blyth CC & Mercer GN (2014) Modelling the seas
 
 **Hogan AB**, Mercer GN, Glass K & Moore HC (2013) Modelling the seasonality of respiratory syncytial virus in young children. *Proceedings of the 20th International Congress on Modelling and Simulation*, Adelaide, Australia, pp 338-344. ISBN [978-0-9872143-2-4](https://www.researchgate.net/publication/259297832_Modelling_the_seasonality_of_respiratory_syncytial_virus_in_young_children).  
 
+### Reports
+**Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Report 19: The Potential Impact of the COVID-19 Epidemic on HIV, TB and Malaria in Low- and Middle-Income Countries. Imperial College London (01-05-2020). DOI: [10.25561/78670](https://doi.org/10.25561/78670).  
+^contributed equally  
+
+Sherrard-Smith E^, **Hogan AB**^, Hamlet A^, Watson OJ^, Whittaker C^ et al (2020) Report 18: The potential public health impact of COVID-19 on malaria in Africa. Imperial College London (01-05-2020). DOI: [10.25561/78668](https://doi.org/10.25561/78668).  
+^contributed equally  
+
 ### Edited volumes
 Zapasnik J & **Hogan AB** (editors) (2014) *The ANU Undergraduate Research Journal*. Volume 6. ANU Press, Canberra. ISSN (online): 1837-2872.
-
-### Code
-Code is available via GitHub (https://github.com/abhogan/). All code is open source and licensed under the MIT License.
 
 ### Thesis
 **Hogan AB** (2017), *Mathematical models for respiratory syncytial virus (RSV) transmission*. PhD thesis, Australian National University. DOI: [10.25911/5d70ec93b3047](https://openresearch-repository.anu.edu.au/handle/1885/118218).
 
-## Other work
+## Code
+Code is available via GitHub (https://github.com/abhogan/). All code is open source and licensed under the MIT License.
+
+## Outreach and other work
+Working Group for the Effects of COVID-19 on HIV, TB and Malaria (2020) What is the impact of COVID-19 on other diseases? *Biomedical Science Journal for Kids and Teens*. Available at [https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/](https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/).  
+
+My video for [Women in Mathematics Day 2020](https://youtu.be/yafI0yYPPcs), for the Australian Research Council Centre of Excellence for Mathematical & Statistical Frontiers (ACEMS). A compilation of messages from many women in mathematics is [here](https://youtu.be/_gKYHvsWePU). 
+
 Blog post for the Thesis Whisperer, published in May 2017  
 [https://thesiswhisperer.com/2017/05/24/making-the-most-of-your-conference-money/](https://thesiswhisperer.com/2017/05/24/making-the-most-of-your-conference-money/)  
