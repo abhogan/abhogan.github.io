@@ -11,17 +11,22 @@ university profile: www.imperial.ac.uk/people/a.hogan
 ## Research activities  
 I am an Imperial College Resesarch Fellow, at Imperial College London. I work on mathematical models of infectious diseases, focussed on childhood diseases and the public health impact of new vaccines. The focus of my current research is to develop dynamic models for respiratory synctial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccine in low-income settings.  
 
-
-I also work on a range of other projects related to estimating the public health impact of the RTS,S/AS01 malaria vaccine and second-generation malaria vaccines in malaria endemic areas.  
+I work on a range of other projects. These include estimating the impact of future vaccines for SARS-CoV-2 infection and disease, and modelling global dose allocation strategies. I also work on estimating the public health impact of the RTS,S/AS01 malaria vaccine, supporting World Health Organization decision-making, and on modelling second-generation malaria vaccines in malaria endemic areas.  
 
 Before joining Imperial College London, I completed my PhD (2017) at the Research School of Population Health at the Australian National University. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.
 
 ## Publications
 
-### Submitted  
-Campbell PT, Geard NG, **Hogan AB** (2020) Modelling the household-level impact of a maternal respiratory syncytial virus (RSV) vaccine in a high-income setting.
+### Preprints  
+Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB**. Analysis of the potential for a malaria vaccine to reduce gaps in malaria intervention coverage. *medRxiv preprint*. DOI: [10.1101/2020.10.09.20209973](http://medrxiv.org/content/early/2020/10/13/2020.10.09.20209973.abstract).
 
 ### Journal articles
+Campbell PT, Geard NG, **Hogan AB** (2020) Modelling the household-level impact of a maternal respiratory syncytial virus (RSV) vaccine in a high-income setting. *BMC Medicine*. 18(319) 1–11. DOI: [10.1186/s12916-020-01783-8](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01783-8).
+
+Thompson HA, **Hogan AB**, Walker PTG et al (2020). Modelling the roles of antibody titre and avidity in protection from *Plasmodium falciparum* malaria infection following RTS,S/AS01 vaccination. *Vaccine*. 38(47) 7498–7507. DOI: [10.1016/j.vaccine.2020.09.069](https://doi.org/10.1016/j.vaccine.2020.09.069).
+
+Sherrard-Smith E, **Hogan AB**, Hamlet A et al (2020). The potential public health consequences of COVID-19 on malaria in Africa. *Nature Medicine*. 26 1411–1416.
+
 **Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Potential impact of the COVID-19 pandemic on HIV, tuberculosis, and malaria in low-income and middle-income countries: a modelling study. *The Lancet Global Health*. DOI: [10.1016/S2214-109X(20)30288-6](https://doi.org/10.1016/S2214-109X(20)30288-6).  
 ^contributed equally  
 Also available as a *Biomedical Science Journal for Kids and Teens* [article](https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/).  
@@ -49,6 +54,8 @@ Moore HC, Jacoby P, **Hogan AB**, Blyth CC & Mercer GN (2014) Modelling the seas
 **Hogan AB**, Mercer GN, Glass K & Moore HC (2013) Modelling the seasonality of respiratory syncytial virus in young children. *Proceedings of the 20th International Congress on Modelling and Simulation*, Adelaide, Australia, pp 338-344. ISBN [978-0-9872143-2-4](https://www.researchgate.net/publication/259297832_Modelling_the_seasonality_of_respiratory_syncytial_virus_in_young_children).  
 
 ### Reports
+Haw D, Forchini G, Christen P, et al (2020) Report 35: How can we keep schools and universities open? Differentiating closures by economic sector to optimize social and economic activity while containing SARS-CoV-2 transmission. Imperial College London (16-11-2020). DOI: [](https://doi.org/...).  
+
 **Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Report 19: The Potential Impact of the COVID-19 Epidemic on HIV, TB and Malaria in Low- and Middle-Income Countries. Imperial College London (01-05-2020). DOI: [10.25561/78670](https://doi.org/10.25561/78670).  
 ^contributed equally  
 
