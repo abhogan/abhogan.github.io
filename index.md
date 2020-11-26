@@ -25,7 +25,7 @@ Campbell PT, Geard NG, **Hogan AB** (2020) Modelling the household-level impact 
 
 Thompson HA, **Hogan AB**, Walker PTG et al (2020). Modelling the roles of antibody titre and avidity in protection from *Plasmodium falciparum* malaria infection following RTS,S/AS01 vaccination. *Vaccine*. 38(47) 7498–7507. DOI: [10.1016/j.vaccine.2020.09.069](https://doi.org/10.1016/j.vaccine.2020.09.069).
 
-Sherrard-Smith E, **Hogan AB**, Hamlet A et al (2020). The potential public health consequences of COVID-19 on malaria in Africa. *Nature Medicine*. 26 1411–1416.
+Sherrard-Smith E^, **Hogan AB**^, Hamlet A^, Watson OJ^, Whittaker C^ et al (2020). The potential public health consequences of COVID-19 on malaria in Africa. *Nature Medicine*. 26 1411–1416. DOI: [10.1038/s41591-020-1025-y](http://dx.doi.org/10.1038/s41591-020-1025-y).
 
 **Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Potential impact of the COVID-19 pandemic on HIV, tuberculosis, and malaria in low-income and middle-income countries: a modelling study. *The Lancet Global Health*. DOI: [10.1016/S2214-109X(20)30288-6](https://doi.org/10.1016/S2214-109X(20)30288-6).  
 ^contributed equally  
@@ -54,7 +54,10 @@ Moore HC, Jacoby P, **Hogan AB**, Blyth CC & Mercer GN (2014) Modelling the seas
 **Hogan AB**, Mercer GN, Glass K & Moore HC (2013) Modelling the seasonality of respiratory syncytial virus in young children. *Proceedings of the 20th International Congress on Modelling and Simulation*, Adelaide, Australia, pp 338-344. ISBN [978-0-9872143-2-4](https://www.researchgate.net/publication/259297832_Modelling_the_seasonality_of_respiratory_syncytial_virus_in_young_children).  
 
 ### Reports
-Haw D, Forchini G, Christen P, et al (2020) Report 35: How can we keep schools and universities open? Differentiating closures by economic sector to optimize social and economic activity while containing SARS-CoV-2 transmission. Imperial College London (16-11-2020). DOI: [](https://doi.org/...).  
+Haw D, Forchini G, Christen P, et al (2020) Report 35: How can we keep schools and universities open? Differentiating closures by economic sector to optimize social and economic activity while containing SARS-CoV-2 transmission. Imperial College London (16-11-2020). DOI: [10.25561/83928](https://doi.org/10.25561/83928).
+
+**Hogan AB**^, Winskill P^, Watson OJ, et al (2020) Report 33: Modelling the allocation and impact of a COVID-19 vaccine. Imperial College London (25-09-2020). DOI: [10.25561/82822](https://doi.org/10.25561/82822).
+^contributed equally
 
 **Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Report 19: The Potential Impact of the COVID-19 Epidemic on HIV, TB and Malaria in Low- and Middle-Income Countries. Imperial College London (01-05-2020). DOI: [10.25561/78670](https://doi.org/10.25561/78670).  
 ^contributed equally  
