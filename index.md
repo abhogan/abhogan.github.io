@@ -13,7 +13,7 @@ I am an Imperial College Resesarch Fellow, at Imperial College London. I work on
 
 I work on a range of other projects. These include estimating the impact of future vaccines for SARS-CoV-2 infection and disease, and modelling global dose allocation strategies. I also work on estimating the public health impact of the RTS,S/AS01 malaria vaccine, supporting World Health Organization decision-making, and on modelling second-generation malaria vaccines in malaria endemic areas.  
 
-Before joining Imperial College London, I completed my PhD (2017) at the Research School of Population Health at the Australian National University. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.
+Before joining Imperial College London, I completed my PhD (2017) at the Research School of Population Health at the Australian National University, under the supervision of Assoc Prof Kathryn Glass, and the late Prof Geoff Mercer. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.
 
 ## Publications
 
@@ -21,6 +21,10 @@ Before joining Imperial College London, I completed my PhD (2017) at the Researc
 Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB**. Analysis of the potential for a malaria vaccine to reduce gaps in malaria intervention coverage. *medRxiv preprint*. DOI: [10.1101/2020.10.09.20209973](http://medrxiv.org/content/early/2020/10/13/2020.10.09.20209973.abstract).
 
 ### Journal articles
+**Hogan AB**^, Winskill P^, Watson OJ et al (2021). Within-country age-based prioritisation, global allocation, and public health impact of a vaccine against SARS-CoV-2: mathematical modelling analysis. *Vaccine*. DOI: [10.1016/j.vaccine.2021.04.002](https://www.sciencedirect.com/science/article/pii/S0264410X21004278). ^contributed equally
+
+**Hogan AB**, Winskill P, Ghani AC (2020). Estimated impact of RTS,S/AS01 malaria vaccine allocation strategies in sub-Saharan Africa: A modelling study. *PLoS Medicine*. DOI: [10.1371/journal.pmed.1003377](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003377).
+
 Campbell PT, Geard NG, **Hogan AB** (2020) Modelling the household-level impact of a maternal respiratory syncytial virus (RSV) vaccine in a high-income setting. *BMC Medicine*. 18(319) 1–11. DOI: [10.1186/s12916-020-01783-8](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01783-8).
 
 Thompson HA, **Hogan AB**, Walker PTG et al (2020). Modelling the roles of antibody titre and avidity in protection from *Plasmodium falciparum* malaria infection following RTS,S/AS01 vaccination. *Vaccine*. 38(47) 7498–7507. DOI: [10.1016/j.vaccine.2020.09.069](https://doi.org/10.1016/j.vaccine.2020.09.069).
