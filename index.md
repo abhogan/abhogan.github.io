@@ -11,7 +11,9 @@ university profile: www.imperial.ac.uk/people/a.hogan
 ## Research activities  
 I am an Imperial College Resesarch Fellow, at Imperial College London. I work on mathematical models of infectious diseases, focussed on childhood diseases and the public health impact of new vaccines. The focus of my current research is to develop dynamic models for respiratory synctial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccine in low-income settings.  
 
-I work on a range of other projects. These include estimating the impact of future vaccines for SARS-CoV-2 infection and disease, and modelling global dose allocation strategies. I also work on estimating the public health impact of the RTS,S/AS01 malaria vaccine, supporting World Health Organization decision-making, and on modelling second-generation malaria vaccines in malaria endemic areas.  
+I work on a range of other projects. These include estimating the impact of future vaccines for SARS-CoV-2 infection and COVID-19 disease, and modelling global [dose allocation strategies](https://www.sciencedirect.com/science/article/pii/S0264410X21004278). My research has informed international vaccine [policy guidance](https://www.who.int/publications/i/item/who-sage-roadmap-for-prioritizing-uses-of-covid-19-vaccines-in-the-context-of-limited-supply).   
+
+I also work on estimating the public health impact of the RTS,S/AS01 malaria vaccine, supporting World Health Organization decision-making, and on modelling second-generation malaria vaccines in malaria endemic areas.  
 
 Before joining Imperial College London, I completed my PhD (2017) at the Research School of Population Health at the Australian National University, under the supervision of Assoc Prof Kathryn Glass, and the late Prof Geoff Mercer. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.
 
