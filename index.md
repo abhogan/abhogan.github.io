@@ -27,6 +27,8 @@ Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB**. Analysis of the pote
 ### Journal articles
 Winskill P, **Hogan AB**, Thwing J et al (2021). Health inequities and clustering of fever, acute respiratory infection, diarrhoea and wasting in children under five in low- and middle-income countries: a Demographic and Health Surveys analysis. *BMC Medicine*. DOI: [10.1186/s12916-021-02018-0](https://doi.org/10.1186/s12916-021-02018-0).  
 
+Prasad N, Read JM, ..., **Hogan AB** (2021). Modelling the impact of respiratory syncytial virus (RSV) vaccine and immunoprophylaxis strategies in New Zealand. *Vaccine*. DOI: [10.1016/j.vaccine.2021.05.100](https://doi.org/10.1016/j.vaccine.2021.05.100).  
+
 **Hogan AB**^, Winskill P^, Watson OJ et al (2021). Within-country age-based prioritisation, global allocation, and public health impact of a vaccine against SARS-CoV-2: mathematical modelling analysis. *Vaccine*. DOI: [10.1016/j.vaccine.2021.04.002](https://www.sciencedirect.com/science/article/pii/S0264410X21004278). ^contributed equally
 
 **Hogan AB**, Winskill P, Ghani AC (2020). Estimated impact of RTS,S/AS01 malaria vaccine allocation strategies in sub-Saharan Africa: A modelling study. *PLoS Medicine*. DOI: [10.1371/journal.pmed.1003377](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003377).
