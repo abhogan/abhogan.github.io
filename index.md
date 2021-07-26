@@ -20,9 +20,13 @@ Before joining Imperial College London, I completed my PhD (2017) at the Researc
 ## Publications
 
 ### Preprints  
+Imai N, **Hogan AB**, Williams L et al. Interpreting estimates of coronavirus disease 2019 (COVID-19) vaccine efficacy and effectiveness to inform simulation studies of vaccine impact: a systematic review (2021). *Wellcome Open Research (awaiting peer review)*. DOI: [10.12688/wellcomeopenres.16992.1](https://wellcomeopenresearch.org/articles/6-185/v1).  
+
 Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB**. Analysis of the potential for a malaria vaccine to reduce gaps in malaria intervention coverage. *medRxiv preprint*. DOI: [10.1101/2020.10.09.20209973](http://medrxiv.org/content/early/2020/10/13/2020.10.09.20209973.abstract).
 
 ### Journal articles
+Winskill P, **Hogan AB**, Thwing J et al (2021). Health inequities and clustering of fever, acute respiratory infection, diarrhoea and wasting in children under five in low- and middle-income countries: a Demographic and Health Surveys analysis. *BMC Medicine*. DOI: [10.1186/s12916-021-02018-0](https://doi.org/10.1186/s12916-021-02018-0).  
+
 **Hogan AB**^, Winskill P^, Watson OJ et al (2021). Within-country age-based prioritisation, global allocation, and public health impact of a vaccine against SARS-CoV-2: mathematical modelling analysis. *Vaccine*. DOI: [10.1016/j.vaccine.2021.04.002](https://www.sciencedirect.com/science/article/pii/S0264410X21004278). ^contributed equally
 
 **Hogan AB**, Winskill P, Ghani AC (2020). Estimated impact of RTS,S/AS01 malaria vaccine allocation strategies in sub-Saharan Africa: A modelling study. *PLoS Medicine*. DOI: [10.1371/journal.pmed.1003377](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003377).
@@ -60,10 +64,10 @@ Moore HC, Jacoby P, **Hogan AB**, Blyth CC & Mercer GN (2014) Modelling the seas
 **Hogan AB**, Mercer GN, Glass K & Moore HC (2013) Modelling the seasonality of respiratory syncytial virus in young children. *Proceedings of the 20th International Congress on Modelling and Simulation*, Adelaide, Australia, pp 338-344. ISBN [978-0-9872143-2-4](https://www.researchgate.net/publication/259297832_Modelling_the_seasonality_of_respiratory_syncytial_virus_in_young_children).  
 
 ### Reports
-Haw D, Forchini G, Christen P, et al (2020) Report 35: How can we keep schools and universities open? Differentiating closures by economic sector to optimize social and economic activity while containing SARS-CoV-2 transmission. Imperial College London (16-11-2020). DOI: [10.25561/83928](https://doi.org/10.25561/83928).
+Haw D, Forchini G, Christen P, et al (2020) Report 35: How can we keep schools and universities open? Differentiating closures by economic sector to optimize social and economic activity while containing SARS-CoV-2 transmission. Imperial College London (16-11-2020). DOI: [10.25561/83928](https://doi.org/10.25561/83928).  
 
 **Hogan AB**^, Winskill P^, Watson OJ, et al (2020) Report 33: Modelling the allocation and impact of a COVID-19 vaccine. Imperial College London (25-09-2020). DOI: [10.25561/82822](https://doi.org/10.25561/82822).
-^contributed equally
+^contributed equally  
 
 **Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Report 19: The Potential Impact of the COVID-19 Epidemic on HIV, TB and Malaria in Low- and Middle-Income Countries. Imperial College London (01-05-2020). DOI: [10.25561/78670](https://doi.org/10.25561/78670).  
 ^contributed equally  
