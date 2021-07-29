@@ -9,7 +9,7 @@ university profile: www.imperial.ac.uk/people/a.hogan
 <img src="abhogan_crop.jpg" width="200" class="float-right">
 
 ## Research activities  
-I am an Imperial College Resesarch Fellow, at Imperial College London. I work on mathematical models of infectious diseases, focussed on childhood diseases and the public health impact of new vaccines. The focus of my current research is to develop dynamic models for respiratory synctial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccine in low-income settings.  
+I am an Imperial College Research Fellow, at Imperial College London. I work on mathematical models of infectious diseases, focussed on childhood diseases and the public health impact of new vaccines. The focus of my current research is to develop dynamic models for respiratory syncytial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccine in low-income settings.  
 
 I work on a range of other projects. These include estimating the impact of future vaccines for SARS-CoV-2 infection and COVID-19 disease, and modelling global [dose allocation strategies](https://www.sciencedirect.com/science/article/pii/S0264410X21004278). My research has informed international vaccine [policy guidance](https://www.who.int/publications/i/item/who-sage-roadmap-for-prioritizing-uses-of-covid-19-vaccines-in-the-context-of-limited-supply).   
 
