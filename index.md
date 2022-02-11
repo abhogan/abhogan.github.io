@@ -22,16 +22,16 @@ I was previously an Imperial College London Research Fellow, within the MRC Cent
 ## Publications
 
 ### Preprints  
-**Hogan AB**, Wu SL, Doohan P, Watson OJ, Winskill P, Charles G, Barnsley G, Riiley EM, Khoury DS, Ferguson NM, Ghani AC. The value of vaccine booster doses to mitigate the global impact of the Omicron SARS-CoV-2 variant (2022). *medRxiv preprint*. DOI: [10.1101/2022.01.17.22269222](https://www.medrxiv.org/content/10.1101/2022.01.17.22269222v1).  
+**Hogan AB**, Wu SL, Doohan P, Watson OJ, Winskill P, Charles G, Barnsley G, Riley EM, Khoury DS, Ferguson NM, Ghani AC. The value of vaccine booster doses to mitigate the global impact of the Omicron SARS-CoV-2 variant (2022). *medRxiv preprint*. DOI: [10.1101/2022.01.17.22269222](https://www.medrxiv.org/content/10.1101/2022.01.17.22269222v1).  
 
 Imai N, **Hogan AB**, Williams L et al. Interpreting estimates of coronavirus disease 2019 (COVID-19) vaccine efficacy and effectiveness to inform simulation studies of vaccine impact: a systematic review (2021). *Wellcome Open Research (awaiting peer review)*. DOI: [10.12688/wellcomeopenres.16992.1](https://wellcomeopenresearch.org/articles/6-185/v1).  
 
 Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB**. Analysis of the potential for a malaria vaccine to reduce gaps in malaria intervention coverage. *medRxiv preprint*. DOI: [10.1101/2020.10.09.20209973](http://medrxiv.org/content/early/2020/10/13/2020.10.09.20209973.abstract).
 
 ### Journal articles
-Olivera-Mesa D, Hogan AB, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill P (2022). Modelling the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic. *Communications Medicine*. DOI: [10.1038/s43856-022-00075-x](https://www.nature.com/articles/s43856-022-00075-x).  
+Olivera-Mesa D, **Hogan AB**, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill P (2022). Modelling the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic. *Communications Medicine*. DOI: [10.1038/s43856-022-00075-x](https://www.nature.com/articles/s43856-022-00075-x).  
 
-Gebremedhin AT, Hogan AB, Blyth CC, Glass K, Moore HC (2021). Developing a prediction model to estimate the true burden of respiratory syncytial virus (RSV) in hospitalised children in Western Australia. *Scientific Reports*. DOI: [10.1038/s41598-021-04080-3](https://doi.org/10.1038/s41598-021-04080-3).  
+Gebremedhin AT, **Hogan AB**, Blyth CC, Glass K, Moore HC (2021). Developing a prediction model to estimate the true burden of respiratory syncytial virus (RSV) in hospitalised children in Western Australia. *Scientific Reports*. DOI: [10.1038/s41598-021-04080-3](https://doi.org/10.1038/s41598-021-04080-3).  
 
 Winskill P, **Hogan AB**, Thwing J et al (2021). Health inequities and clustering of fever, acute respiratory infection, diarrhoea and wasting in children under five in low- and middle-income countries: a Demographic and Health Surveys analysis. *BMC Medicine*. DOI: [10.1186/s12916-021-02018-0](https://doi.org/10.1186/s12916-021-02018-0).  
 
@@ -74,6 +74,12 @@ Moore HC, Jacoby P, **Hogan AB**, Blyth CC & Mercer GN (2014) Modelling the seas
 **Hogan AB**, Mercer GN, Glass K & Moore HC (2013) Modelling the seasonality of respiratory syncytial virus in young children. *Proceedings of the 20th International Congress on Modelling and Simulation*, Adelaide, Australia, pp 338-344. ISBN [978-0-9872143-2-4](https://www.researchgate.net/publication/259297832_Modelling_the_seasonality_of_respiratory_syncytial_virus_in_young_children).  
 
 ### Reports
+Ferguson NM, Ghani AC, Cori A, **Hogan AB**, Hinsley W, Volz E (2021) Report 49: Growth, population distribution and immune escape of Omicron in England. Imperial College London (16-12-2021). DOI: [10.25561/93038](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-49-omicron/).  
+
+**Hogan AB**, Wu SL, Doohan P, Watson OJ, Winskill P, Charles G, Barnsley G, Riley EM, Khoury DS, Ferguson NM, Ghani AC (2021) Report 48: The value of vaccine booster doses to mitigate the global impact of the Omicron SARS-CoV-2 variant. Imperial College London (16-12-2021). DOI: [10.25561/93034](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-48-global-omicron/).  
+
+Olivera-Mesa D, **Hogan AB**, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill P (2021) Report 43: Quantifying the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic. Imperial College London (). DOI: [10.25561/87096 ](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-43-vaccine-hesitancy/).  
+
 Haw D, Forchini G, Christen P, et al (2020) Report 35: How can we keep schools and universities open? Differentiating closures by economic sector to optimize social and economic activity while containing SARS-CoV-2 transmission. Imperial College London (16-11-2020). DOI: [10.25561/83928](https://doi.org/10.25561/83928).  
 
 **Hogan AB**^, Winskill P^, Watson OJ, et al (2020) Report 33: Modelling the allocation and impact of a COVID-19 vaccine. Imperial College London (25-09-2020). DOI: [10.25561/82822](https://doi.org/10.25561/82822).
