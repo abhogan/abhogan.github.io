@@ -1,30 +1,38 @@
-Imperial College Research Fellow  
-MRC Centre for Global Infectious Disease Analysis  
-Imperial College London  
+NHMRC Research Fellow  
+School of Population Health
+University of New South Wales  
 
-email: a.hogan@imperial.ac.uk  
+email: alexandra.hogan@unsw.edu.au
 twitter: @alexandrabh  
 university profile: www.imperial.ac.uk/people/a.hogan  
+
+Funding: [NHMRC Investigator Grant](https://sph.med.unsw.edu.au/news/mathematical-modelling-support-policy-decisions-covid-19-vaccination-australia) Emerging Leader 1 
 
 <img src="abhogan_crop.jpg" width="200" class="float-right">
 
 ## Research activities  
-I am an Imperial College Research Fellow, at Imperial College London. I work on mathematical models of infectious diseases, focussed on childhood diseases and the public health impact of new vaccines. The focus of my current research is to develop dynamic models for respiratory syncytial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccine in low-income settings.  
+I work on mathematical models of infectious diseases, focussed on the public health impact of new vaccines. The focus of my current research is to develop dynamic models to help inform longer term planning of ongoing COVID-19 vaccination programs in Australia and the broader region. I also work on models for for respiratory syncytial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccines.  
 
-I work on a range of other projects. These include estimating the impact of future vaccines for SARS-CoV-2 infection and COVID-19 disease, and modelling global [dose allocation strategies](https://www.sciencedirect.com/science/article/pii/S0264410X21004278). My research has informed international vaccine [policy guidance](https://www.who.int/publications/i/item/who-sage-roadmap-for-prioritizing-uses-of-covid-19-vaccines-in-the-context-of-limited-supply).   
+These include estimating the impact of future vaccines for SARS-CoV-2 infection and COVID-19 disease, and modelling global [dose allocation strategies](https://www.sciencedirect.com/science/article/pii/S0264410X21004278). My research has informed international vaccine [policy guidance](https://www.who.int/publications/i/item/who-sage-roadmap-for-prioritizing-uses-of-covid-19-vaccines-in-the-context-of-limited-supply).   
 
-I also work on estimating the public health impact of the RTS,S/AS01 malaria vaccine, supporting World Health Organization decision-making, and on modelling second-generation malaria vaccines in malaria endemic areas.  
+I have previously worked on estimating the public health impact of the RTS,S/AS01 malaria vaccine, supporting World Health Organization decision-making, and on modelling second-generation malaria vaccines in malaria endemic areas.  
 
-Before joining Imperial College London, I completed my PhD (2017) at the Research School of Population Health at the Australian National University, under the supervision of Assoc Prof Kathryn Glass, and the late Prof Geoff Mercer. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.
+I was previously an Imperial College London Research Fellow, within the MRC Centre for Global Infectious Disease Analysis (2019-2021). I completed my PhD (2017) at the Research School of Population Health at the Australian National University, under the supervision of Assoc Prof Kathryn Glass, and the late Prof Geoff Mercer. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.  
 
 ## Publications
 
 ### Preprints  
+**Hogan AB**, Wu SL, Doohan P, Watson OJ, Winskill P, Charles G, Barnsley G, Riiley EM, Khoury DS, Ferguson NM, Ghani AC. The value of vaccine booster doses to mitigate the global impact of the Omicron SARS-CoV-2 variant (2022). *medRxiv preprint*. DOI: [10.1101/2022.01.17.22269222](https://www.medrxiv.org/content/10.1101/2022.01.17.22269222v1).  
+
 Imai N, **Hogan AB**, Williams L et al. Interpreting estimates of coronavirus disease 2019 (COVID-19) vaccine efficacy and effectiveness to inform simulation studies of vaccine impact: a systematic review (2021). *Wellcome Open Research (awaiting peer review)*. DOI: [10.12688/wellcomeopenres.16992.1](https://wellcomeopenresearch.org/articles/6-185/v1).  
 
 Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB**. Analysis of the potential for a malaria vaccine to reduce gaps in malaria intervention coverage. *medRxiv preprint*. DOI: [10.1101/2020.10.09.20209973](http://medrxiv.org/content/early/2020/10/13/2020.10.09.20209973.abstract).
 
 ### Journal articles
+Olivera-Mesa D, Hogan AB, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill P (2022). Modelling the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic. *Communications Medicine*. DOI: [10.1038/s43856-022-00075-x](https://www.nature.com/articles/s43856-022-00075-x).  
+
+Gebremedhin AT, Hogan AB, Blyth CC, Glass K, Moore HC (2021). Developing a prediction model to estimate the true burden of respiratory syncytial virus (RSV) in hospitalised children in Western Australia. *Scientific Reports*. DOI: [10.1038/s41598-021-04080-3](https://doi.org/10.1038/s41598-021-04080-3).  
+
 Winskill P, **Hogan AB**, Thwing J et al (2021). Health inequities and clustering of fever, acute respiratory infection, diarrhoea and wasting in children under five in low- and middle-income countries: a Demographic and Health Surveys analysis. *BMC Medicine*. DOI: [10.1186/s12916-021-02018-0](https://doi.org/10.1186/s12916-021-02018-0).  
 
 Prasad N, Read JM, ..., **Hogan AB** (2021). Modelling the impact of respiratory syncytial virus (RSV) vaccine and immunoprophylaxis strategies in New Zealand. *Vaccine*. DOI: [10.1016/j.vaccine.2021.05.100](https://doi.org/10.1016/j.vaccine.2021.05.100).  
