@@ -5,7 +5,7 @@ University of New South Wales
 email: alexandra.hogan@unsw.edu.au  
 twitter: @alexandrabh  
 university profile: 
-research.unsw.edu.au/people/alexandra-hogan  
+www.research.unsw.edu.au/people/alexandra-hogan  
 www.imperial.ac.uk/people/a.hogan  
 
 Funding: [NHMRC Investigator Grant](https://sph.med.unsw.edu.au/news/mathematical-modelling-support-policy-decisions-covid-19-vaccination-australia) Emerging Leader 1 
