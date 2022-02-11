@@ -2,9 +2,11 @@ NHMRC Research Fellow
 School of Population Health
 University of New South Wales  
 
-email: alexandra.hogan@unsw.edu.au
+email: alexandra.hogan@unsw.edu.au  
 twitter: @alexandrabh  
-university profile: www.imperial.ac.uk/people/a.hogan  
+university profile: 
+research.unsw.edu.au/people/alexandra-hogan  
+www.imperial.ac.uk/people/a.hogan  
 
 Funding: [NHMRC Investigator Grant](https://sph.med.unsw.edu.au/news/mathematical-modelling-support-policy-decisions-covid-19-vaccination-australia) Emerging Leader 1 
 
