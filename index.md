@@ -10,7 +10,7 @@ www.imperial.ac.uk/people/a.hogan
 
 Funding: [NHMRC Investigator Grant](https://sph.med.unsw.edu.au/news/mathematical-modelling-support-policy-decisions-covid-19-vaccination-australia) Emerging Leader 1 
 
-<img src="abhogan_crop.jpg" width="200" class="float-right">
+<img src="SH23-Alexandra Hogan-0261 (2).jpg" width="200" class="float-right">
 
 ## Research activities  
 I work on mathematical models of infectious diseases, focussed on the public health impact of new vaccines. The focus of my current research is to develop dynamic models to help inform longer term planning of ongoing COVID-19 vaccination programs in Australia and the broader region. I also work on models for for respiratory syncytial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccines.  
