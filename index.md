@@ -24,6 +24,8 @@ I was previously an Imperial College London Research Fellow, within the MRC Cent
 ## Publications
 
 ### Preprints  
+Bents S, Viboud C, Grenfell B, **Hogan AB**, Tempia S, von Gottber A, Moyes J, Walaza S, Cohen C, Baker R. The impact of COVID-19 non-pharmaceutical interventions on future respiratory syncytial virus transmission in South Africa (2022). *medRxiv preprint*. DOI: [10.1101/2022.03.12.22271872](https://www.medrxiv.org/content/10.1101/2022.03.12.22271872v1).  
+
 **Hogan AB**, Wu SL, Doohan P, Watson OJ, Winskill P, Charles G, Barnsley G, Riley EM, Khoury DS, Ferguson NM, Ghani AC. The value of vaccine booster doses to mitigate the global impact of the Omicron SARS-CoV-2 variant (2022). *medRxiv preprint*. DOI: [10.1101/2022.01.17.22269222](https://www.medrxiv.org/content/10.1101/2022.01.17.22269222v1).  
 
 Imai N, **Hogan AB**, Williams L et al. Interpreting estimates of coronavirus disease 2019 (COVID-19) vaccine efficacy and effectiveness to inform simulation studies of vaccine impact: a systematic review (2021). *Wellcome Open Research (awaiting peer review)*. DOI: [10.12688/wellcomeopenres.16992.1](https://wellcomeopenresearch.org/articles/6-185/v1).  
@@ -33,7 +35,9 @@ Olivera-Mesa D, **Hogan AB**, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill
 
 Gebremedhin AT, **Hogan AB**, Blyth CC, Glass K, Moore HC (2021). Developing a prediction model to estimate the true burden of respiratory syncytial virus (RSV) in hospitalised children in Western Australia. *Scientific Reports*. DOI: [10.1038/s41598-021-04080-3](https://doi.org/10.1038/s41598-021-04080-3).  
 
-Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB** (2021). Analysis of the potential for a malaria vaccine to reduce gaps in malaria intervention coverage. *Malaria Journal*. 20(438) DOI: [10.1186/s12936-021-03966-x](https://doi.org/10.1186/s12936-021-03966-x).
+Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB** (2021). Analysis of the potential for a malaria vaccine to reduce gaps in malaria intervention coverage. *Malaria Journal*. 20(438) DOI: [10.1186/s12936-021-03966-x](https://doi.org/10.1186/s12936-021-03966-x).  
+
+Skarp J, Downey LE, ..., **Hogan AB**, ...Hauck K (2021). A Systematic Review of the Costs Relating to Non-pharmaceutical Interventions Against Infectious Disease Outbreaks. *Appled Health Economics and Health Policy*. DOI: [10.1007/s40258-021-00659-z](https://doi.org/10.1007/s40258-021-00659-z).
 
 Winskill P, **Hogan AB**, Thwing J et al (2021). Health inequities and clustering of fever, acute respiratory infection, diarrhoea and wasting in children under five in low- and middle-income countries: a Demographic and Health Surveys analysis. *BMC Medicine*. DOI: [10.1186/s12916-021-02018-0](https://doi.org/10.1186/s12916-021-02018-0).  
 
