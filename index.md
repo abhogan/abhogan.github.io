@@ -19,18 +19,30 @@ These include estimating the impact of future vaccines for SARS-CoV-2 infection 
 
 I have previously worked on estimating the public health impact of the RTS,S/AS01 malaria vaccine, supporting World Health Organization decision-making, and on modelling second-generation malaria vaccines in malaria endemic areas.  
 
-I was previously an Imperial College London Research Fellow, within the MRC Centre for Global Infectious Disease Analysis (2019-2021). I completed my PhD (2017) at the Research School of Population Health at the Australian National University, under the supervision of Assoc Prof Kathryn Glass, and the late Prof Geoff Mercer. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.  
+I hold a visiting position at Imperial College London, within the MRC Centre for Global Infectious Disease Analysis. I completed my PhD (2017) at the Research School of Population Health at the Australian National University, under the supervision of Assoc Prof Kathryn Glass, and the late Prof Geoff Mercer. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.  
 
 ## Publications
 
 ### Preprints  
-Bents S, Viboud C, Grenfell B, **Hogan AB**, Tempia S, von Gottber A, Moyes J, Walaza S, Cohen C, Baker R. The impact of COVID-19 non-pharmaceutical interventions on future respiratory syncytial virus transmission in South Africa (2022). *medRxiv preprint*. DOI: [10.1101/2022.03.12.22271872](https://www.medrxiv.org/content/10.1101/2022.03.12.22271872v1).  
+Le TP, Abell I, ... **Hogan AB**, ... (2023). Modelling the impact of hybrid immunity on future COVID-19 epidemic waves  
 
-**Hogan AB**, Wu SL, Doohan P, Watson OJ, Winskill P, Charles G, Barnsley G, Riley EM, Khoury DS, Ferguson NM, Ghani AC. The value of vaccine booster doses to mitigate the global impact of the Omicron SARS-CoV-2 variant (2022). *medRxiv preprint*. DOI: [10.1101/2022.01.17.22269222](https://www.medrxiv.org/content/10.1101/2022.01.17.22269222v1).  
+Barnsley G, Olivera Mesa O, **Hogan AB**, ... (2023). Impact of 100 Days Vaccination Mission on COVID-19: A Mathematical Modelling Study. *SSRN Preprint*. [Access here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519550).  
+
+Bents S, Viboud C, Grenfell B, **Hogan AB**, Tempia S, von Gottber A, Moyes J, Walaza S, Cohen C, Baker R. The impact of COVID-19 non-pharmaceutical interventions on future respiratory syncytial virus transmission in South Africa (2022). *medRxiv preprint*. DOI: [10.1101/2022.03.12.22271872](https://www.medrxiv.org/content/10.1101/2022.03.12.22271872v1).  
 
 Imai N, **Hogan AB**, Williams L et al. Interpreting estimates of coronavirus disease 2019 (COVID-19) vaccine efficacy and effectiveness to inform simulation studies of vaccine impact: a systematic review (2021). *Wellcome Open Research (awaiting peer review)*. DOI: [10.12688/wellcomeopenres.16992.1](https://wellcomeopenresearch.org/articles/6-185/v1).  
 
 ### Journal articles
+**Hogan AB**, Wu SL, Toor J, ..., Ghani AC (2023). Long-term vaccination strategies to mitigate the impact of SARS-CoV-2 transmission: A modelling study. *PLoS Medicine*. DOI: [10.1371/journal.pmed.1004195](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004195).  
+
+Quantifying the effect of delaying the second COVID-19 vaccine dose in England: a mathematical modelling study
+
+Watson OJ, ..., **Hogan AB**, ... (2022). Global impact of the first year of COVID-19 vaccination: a mathematical modelling study. *Lancet Infectious Diseases*. 22(9). DOI: [10.1016/S1473-3099(22)00320-6](https://doi.org/10.1016/S1473-3099(22)00320-6).  
+
+Thompson HA, **Hogan AB**, ... (2022). Seasonal use case for the RTS, S/AS01 malaria vaccine: a mathematical modelling study. *Lancet Global Health*. 10(12). DOI: []().  
+
+
+
 Olivera-Mesa D, **Hogan AB**, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill P (2022). Modelling the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic. *Communications Medicine*. DOI: [10.1038/s43856-022-00075-x](https://www.nature.com/articles/s43856-022-00075-x).  
 
 Gebremedhin AT, **Hogan AB**, Blyth CC, Glass K, Moore HC (2021). Developing a prediction model to estimate the true burden of respiratory syncytial virus (RSV) in hospitalised children in Western Australia. *Scientific Reports*. DOI: [10.1038/s41598-021-04080-3](https://doi.org/10.1038/s41598-021-04080-3).  
