@@ -24,36 +24,36 @@ I hold a visiting position at Imperial College London, within the MRC Centre for
 ## Publications
 
 ### Preprints  
-Le TP, Abell I, Comway E, ... **Hogan AB**, ... (2023). Modelling the impact of hybrid immunity on future COVID-19 epidemic waves. *medRxiv preprint*. DOI: [10.1101/2023.03.12.23287174](https://doi.org/10.1101/2023.03.12.23287174).  
+1. Le TP, Abell I, Comway E, ... **Hogan AB**, ... (2023). Modelling the impact of hybrid immunity on future COVID-19 epidemic waves. *medRxiv preprint*. DOI: [10.1101/2023.03.12.23287174](https://doi.org/10.1101/2023.03.12.23287174).  
 
-Barnsley G, Olivera Mesa O, **Hogan AB**, ... (2023). Impact of 100 Days Vaccination Mission on COVID-19: A Mathematical Modelling Study. *SSRN Preprint*. [Access here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519550).  
+2. Barnsley G, Olivera Mesa O, **Hogan AB**, ... (2023). Impact of 100 Days Vaccination Mission on COVID-19: A Mathematical Modelling Study. *SSRN Preprint*. [Access here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519550).  
 
-Bents S, Viboud C, Grenfell B, **Hogan AB**, Tempia S, von Gottber A, Moyes J, Walaza S, Cohen C, Baker R. The impact of COVID-19 non-pharmaceutical interventions on future respiratory syncytial virus transmission in South Africa (2022). *medRxiv preprint*. DOI: [10.1101/2022.03.12.22271872](https://www.medrxiv.org/content/10.1101/2022.03.12.22271872v1).  
+3. Bents S, Viboud C, Grenfell B, **Hogan AB**, Tempia S, von Gottber A, Moyes J, Walaza S, Cohen C, Baker R. The impact of COVID-19 non-pharmaceutical interventions on future respiratory syncytial virus transmission in South Africa (2022). *medRxiv preprint*. DOI: [10.1101/2022.03.12.22271872](https://www.medrxiv.org/content/10.1101/2022.03.12.22271872v1).  
 
 ### Journal articles
-29. **Hogan AB**, Wu SL, Toor J, ..., Ghani AC (2023). Long-term vaccination strategies to mitigate the impact of SARS-CoV-2 transmission: A modelling study. *PLoS Medicine*. DOI: [10.1371/journal.pmed.1004195](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004195).  
+4. **Hogan AB**, Wu SL, Toor J, ..., Ghani AC (2023). Long-term vaccination strategies to mitigate the impact of SARS-CoV-2 transmission: A modelling study. *PLoS Medicine*. DOI: [10.1371/journal.pmed.1004195](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004195).  
 
-28. **Hogan AB**,... (2023). Estimating long-term vaccine effectiveness against SARS-CoV-2 variants: a model-based approach. *Nature Communications* 14. DOI: [10.1038/s41467-023-39736-3](https://www.nature.com/articles/s41467-023-39736-3).  
+5. **Hogan AB**,... (2023). Estimating long-term vaccine effectiveness against SARS-CoV-2 variants: a model-based approach. *Nature Communications* 14. DOI: [10.1038/s41467-023-39736-3](https://www.nature.com/articles/s41467-023-39736-3).  
 
-27. Imai N, ..., **Hogan AB**, ... (2023). Quantifying the effect of delaying the second COVID-19 vaccine dose in England: a mathematical modelling study. DOI: [10.1016/S2468-2667(22)00337-1](https://www.sciencedirect.com/science/article/pii/S2468266722003371?via%3Dihub).  
+6. Imai N, ..., **Hogan AB**, ... (2023). Quantifying the effect of delaying the second COVID-19 vaccine dose in England: a mathematical modelling study. DOI: [10.1016/S2468-2667(22)00337-1](https://www.sciencedirect.com/science/article/pii/S2468266722003371?via%3Dihub).  
 
-26. Watson OJ, ..., **Hogan AB**, ... (2022). Global impact of the first year of COVID-19 vaccination: a mathematical modelling study. *Lancet Infectious Diseases*. 22(9). DOI: [10.1016/S1473-3099(22)00320-6](https://doi.org/10.1016/S1473-3099(22)00320-6).  
+7. Watson OJ, ..., **Hogan AB**, ... (2022). Global impact of the first year of COVID-19 vaccination: a mathematical modelling study. *Lancet Infectious Diseases*. 22(9). DOI: [10.1016/S1473-3099(22)00320-6](https://doi.org/10.1016/S1473-3099(22)00320-6).  
 
-25. Thompson HA, **Hogan AB**, ... (2022). Seasonal use case for the RTS, S/AS01 malaria vaccine: a mathematical modelling study. *Lancet Global Health*. 10(12). DOI: [10.1016/S2214-109X(22)00416-8](https://www.sciencedirect.com/science/article/pii/S2214109X22004168?via%3Dihub).  
+0. Thompson HA, **Hogan AB**, ... (2022). Seasonal use case for the RTS, S/AS01 malaria vaccine: a mathematical modelling study. *Lancet Global Health*. 10(12). DOI: [10.1016/S2214-109X(22)00416-8](https://www.sciencedirect.com/science/article/pii/S2214109X22004168?via%3Dihub).  
 
-24. Haw, DJ, Forchini G, Doohan P, ..., **Hogan AB**, ... Hauck KD (2022). Optimizing social and economic activity while containing SARS-CoV-2 transmission using DAEDALUS. *Nature Computational Science*. DOI: [10.1038/s43588-022-00233-0](ttp://dx.doi.org/10.1038/s43588-022-00233-0).  
+0. Haw, DJ, Forchini G, Doohan P, ..., **Hogan AB**, ... Hauck KD (2022). Optimizing social and economic activity while containing SARS-CoV-2 transmission using DAEDALUS. *Nature Computational Science*. DOI: [10.1038/s43588-022-00233-0](ttp://dx.doi.org/10.1038/s43588-022-00233-0).  
 
-23. Olivera-Mesa D, **Hogan AB**, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill P (2022). Modelling the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic. *Communications Medicine*. DOI: [10.1038/s43856-022-00075-x](https://www.nature.com/articles/s43856-022-00075-x).  
+0. Olivera-Mesa D, **Hogan AB**, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill P (2022). Modelling the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic. *Communications Medicine*. DOI: [10.1038/s43856-022-00075-x](https://www.nature.com/articles/s43856-022-00075-x).  
 
-22. Gebremedhin AT, **Hogan AB**, Blyth CC, Glass K, Moore HC (2021). Developing a prediction model to estimate the true burden of respiratory syncytial virus (RSV) in hospitalised children in Western Australia. *Scientific Reports*. DOI: [10.1038/s41598-021-04080-3](https://doi.org/10.1038/s41598-021-04080-3).  
+0. Gebremedhin AT, **Hogan AB**, Blyth CC, Glass K, Moore HC (2021). Developing a prediction model to estimate the true burden of respiratory syncytial virus (RSV) in hospitalised children in Western Australia. *Scientific Reports*. DOI: [10.1038/s41598-021-04080-3](https://doi.org/10.1038/s41598-021-04080-3).  
 
-21. Imai N, **Hogan AB**, Williams L, ... (2021). Interpreting estimates of coronavirus disease 2019 (COVID-19) vaccine efficacy and effectiveness to inform simulation studies of vaccine impact: a systematic review. *Wellcome Open Research*. DOI: [10.12688/wellcomeopenres.16992.1](https://wellcomeopenresearch.org/articles/6-185/v1).  
+0. Imai N, **Hogan AB**, Williams L, ... (2021). Interpreting estimates of coronavirus disease 2019 (COVID-19) vaccine efficacy and effectiveness to inform simulation studies of vaccine impact: a systematic review. *Wellcome Open Research*. DOI: [10.12688/wellcomeopenres.16992.1](https://wellcomeopenresearch.org/articles/6-185/v1).  
 
-20. Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB** (2021). Analysis of the potential for a malaria vaccine to reduce gaps in malaria intervention coverage. *Malaria Journal*. 20(438) DOI: [10.1186/s12936-021-03966-x](https://doi.org/10.1186/s12936-021-03966-x).  
+0. Unwin HJT, Mwandigha L, Winskill P, Ghani AC, **Hogan AB** (2021). Analysis of the potential for a malaria vaccine to reduce gaps in malaria intervention coverage. *Malaria Journal*. 20(438) DOI: [10.1186/s12936-021-03966-x](https://doi.org/10.1186/s12936-021-03966-x).  
 
-19. Skarp J, Downey LE, ..., **Hogan AB**, ...Hauck K (2021). A Systematic Review of the Costs Relating to Non-pharmaceutical Interventions Against Infectious Disease Outbreaks. *Appled Health Economics and Health Policy*. DOI: [10.1007/s40258-021-00659-z](https://doi.org/10.1007/s40258-021-00659-z).  
+0. Skarp J, Downey LE, ..., **Hogan AB**, ...Hauck K (2021). A Systematic Review of the Costs Relating to Non-pharmaceutical Interventions Against Infectious Disease Outbreaks. *Appled Health Economics and Health Policy*. DOI: [10.1007/s40258-021-00659-z](https://doi.org/10.1007/s40258-021-00659-z).  
 
-18. Winskill P, **Hogan AB**, Thwing J et al (2021). Health inequities and clustering of fever, acute respiratory infection, diarrhoea and wasting in children under five in low- and middle-income countries: a Demographic and Health Surveys analysis. *BMC Medicine*. DOI: [10.1186/s12916-021-02018-0](https://doi.org/10.1186/s12916-021-02018-0).  
+0. Winskill P, **Hogan AB**, Thwing J et al (2021). Health inequities and clustering of fever, acute respiratory infection, diarrhoea and wasting in children under five in low- and middle-income countries: a Demographic and Health Surveys analysis. *BMC Medicine*. DOI: [10.1186/s12916-021-02018-0](https://doi.org/10.1186/s12916-021-02018-0).  
 
 17. Prasad N, Read JM, ..., **Hogan AB** (2021). Modelling the impact of respiratory syncytial virus (RSV) vaccine and immunoprophylaxis strategies in New Zealand. *Vaccine*. DOI: [10.1016/j.vaccine.2021.05.100](https://doi.org/10.1016/j.vaccine.2021.05.100).  
 
@@ -92,24 +92,24 @@ Also available as a *Biomedical Science Journal for Kids and Teens* [article](ht
 1. **Hogan AB**, Mercer GN, Glass K & Moore HC (2013) Modelling the seasonality of respiratory syncytial virus in young children. *Proceedings of the 20th International Congress on Modelling and Simulation*, Adelaide, Australia, pp 338-344. ISBN [978-0-9872143-2-4](https://www.researchgate.net/publication/259297832_Modelling_the_seasonality_of_respiratory_syncytial_virus_in_young_children).  
 
 ### Reports
-Ferguson NM, Ghani AC, Cori A, **Hogan AB**, Hinsley W, Volz E (2021) Report 49: Growth, population distribution and immune escape of Omicron in England. Imperial College London (16-12-2021). DOI: [10.25561/93038](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-49-omicron/).  
+1. Ferguson NM, Ghani AC, Cori A, **Hogan AB**, Hinsley W, Volz E (2021) Report 49: Growth, population distribution and immune escape of Omicron in England. Imperial College London (16-12-2021). DOI: [10.25561/93038](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-49-omicron/).  
 
-**Hogan AB**, Wu SL, Doohan P, Watson OJ, Winskill P, Charles G, Barnsley G, Riley EM, Khoury DS, Ferguson NM, Ghani AC (2021) Report 48: The value of vaccine booster doses to mitigate the global impact of the Omicron SARS-CoV-2 variant. Imperial College London (16-12-2021). DOI: [10.25561/93034](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-48-global-omicron/).  
+0. **Hogan AB**, Wu SL, Doohan P, Watson OJ, Winskill P, Charles G, Barnsley G, Riley EM, Khoury DS, Ferguson NM, Ghani AC (2021) Report 48: The value of vaccine booster doses to mitigate the global impact of the Omicron SARS-CoV-2 variant. Imperial College London (16-12-2021). DOI: [10.25561/93034](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-48-global-omicron/).  
 
-Sonabend R, Whittles LK, ..., **Hogan AB**, ... Ferguson NM (2021). Evaluating the Roadmap out of Lockdown: Step 3. Report to the UK Government. [Available here](https://www.gov.uk/government/publications/imperial-college-london-evaluating-the-roadmap-out-of-lockdown-step-3-5-may-2021).  
+0. Sonabend R, Whittles LK, ..., **Hogan AB**, ... Ferguson NM (2021). Evaluating the Roadmap out of Lockdown: Step 3. Report to the UK Government. [Available here](https://www.gov.uk/government/publications/imperial-college-london-evaluating-the-roadmap-out-of-lockdown-step-3-5-may-2021).  
 
-Olivera-Mesa D, **Hogan AB**, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill P (2021) Report 43: Quantifying the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic. Imperial College London (). DOI: [10.25561/87096 ](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-43-vaccine-hesitancy/).  
+0. Olivera-Mesa D, **Hogan AB**, Watson OJ, Charles GD, Hauck K, Ghani AC, Winskill P (2021) Report 43: Quantifying the impact of vaccine hesitancy in prolonging the need for Non-Pharmaceutical Interventions to control the COVID-19 pandemic. Imperial College London (). DOI: [10.25561/87096 ](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-43-vaccine-hesitancy/).  
 
-**Hogan AB**^, Winskill P^, Watson OJ, et al (2020) Report 33: Modelling the allocation and impact of a COVID-19 vaccine. Imperial College London (25-09-2020). DOI: [10.25561/82822](https://doi.org/10.25561/82822).
+0. **Hogan AB**^, Winskill P^, Watson OJ, et al (2020) Report 33: Modelling the allocation and impact of a COVID-19 vaccine. Imperial College London (25-09-2020). DOI: [10.25561/82822](https://doi.org/10.25561/82822).
 ^contributed equally  
 
-**Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Report 19: The Potential Impact of the COVID-19 Epidemic on HIV, TB and Malaria in Low- and Middle-Income Countries. Imperial College London (01-05-2020). DOI: [10.25561/78670](https://doi.org/10.25561/78670).  
+0. **Hogan AB**^, Jewell BL^, Sherrard-Smith E^, Vesga JF^, Watson OJ^, Whittaker C^ et al (2020) Report 19: The Potential Impact of the COVID-19 Epidemic on HIV, TB and Malaria in Low- and Middle-Income Countries. Imperial College London (01-05-2020). DOI: [10.25561/78670](https://doi.org/10.25561/78670).  
 ^contributed equally  
 
-Sherrard-Smith E^, **Hogan AB**^, Hamlet A^, Watson OJ^, Whittaker C^ et al (2020) Report 18: The potential public health impact of COVID-19 on malaria in Africa. Imperial College London (01-05-2020). DOI: [10.25561/78668](https://doi.org/10.25561/78668).  
+0. Sherrard-Smith E^, **Hogan AB**^, Hamlet A^, Watson OJ^, Whittaker C^ et al (2020) Report 18: The potential public health impact of COVID-19 on malaria in Africa. Imperial College London (01-05-2020). DOI: [10.25561/78668](https://doi.org/10.25561/78668).  
 ^contributed equally  
 
-Wakayama M, **Hogan AB** & Anderssen RS (2015) The formation and launch of the Asia Pacific Consortium of Mathematics for Industry (APCMfI). *Proceedings of the Forum of Mathematics for Industry 2014*. Springer. 143-147. DOI: [10.1007/978-4-431-55342-7](https://link.springer.com/book/10.1007/978-4-431-55342-7).  
+0. Wakayama M, **Hogan AB** & Anderssen RS (2015) The formation and launch of the Asia Pacific Consortium of Mathematics for Industry (APCMfI). *Proceedings of the Forum of Mathematics for Industry 2014*. Springer. 143-147. DOI: [10.1007/978-4-431-55342-7](https://link.springer.com/book/10.1007/978-4-431-55342-7).  
 
 ### Edited volumes
 Zapasnik J & **Hogan AB** (editors) (2014) *The ANU Undergraduate Research Journal*. Volume 6. ANU Press, Canberra. ISSN (online): 1837-2872.  
