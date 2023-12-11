@@ -28,9 +28,9 @@ I hold a visiting position at Imperial College London, within the MRC Centre for
 
 2. Barnsley G, Olivera Mesa O, **Hogan AB**, ... (2023). Impact of 100 Days Vaccination Mission on COVID-19: A Mathematical Modelling Study. *SSRN Preprint*. [Access here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519550).  
 
-3. Bents S, Viboud C, Grenfell B, **Hogan AB**, Tempia S, von Gottber A, Moyes J, Walaza S, Cohen C, Baker R. The impact of COVID-19 non-pharmaceutical interventions on future respiratory syncytial virus transmission in South Africa (2022). *medRxiv preprint*. DOI: [10.1101/2022.03.12.22271872](https://www.medrxiv.org/content/10.1101/2022.03.12.22271872v1).  
-
 ### Journal articles
+3. Bents S, Viboud C, Grenfell B, **Hogan AB**, Tempia S, von Gottber A, Moyes J, Walaza S, Cohen C, Baker R (2023). The impact of COVID-19 non-pharmaceutical interventions on future respiratory syncytial virus transmission in South Africa. *Influenza and Other Respiratory Viruses*. DOI: [10.1111/irv.13229](https://onlinelibrary.wiley.com/doi/10.1111/irv.13229).
+
 4. **Hogan AB**, Wu SL, Toor J, ..., Ghani AC (2023). Long-term vaccination strategies to mitigate the impact of SARS-CoV-2 transmission: A modelling study. *PLoS Medicine*. DOI: [10.1371/journal.pmed.1004195](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004195).  
 
 5. **Hogan AB**,... (2023). Estimating long-term vaccine effectiveness against SARS-CoV-2 variants: a model-based approach. *Nature Communications* 14. DOI: [10.1038/s41467-023-39736-3](https://www.nature.com/articles/s41467-023-39736-3).  
