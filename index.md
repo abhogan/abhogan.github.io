@@ -19,7 +19,7 @@ These include estimating the impact of future vaccines for SARS-CoV-2 infection 
 
 I have previously worked on estimating the public health impact of the RTS,S/AS01 malaria vaccine, supporting World Health Organization decision-making, and on modelling second-generation malaria vaccines in malaria endemic areas.  
 
-I hold a visiting position at Imperial College London, within the MRC Centre for Global Infectious Disease Analysis. I completed my PhD (2017) at the Research School of Population Health at the Australian National University, under the supervision of Assoc Prof Kathryn Glass, and the late Prof Geoff Mercer. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.  
+I am a member of the World Health Organization Immunization and vaccines related implementation research advisory committee [(IVIR-AC)](https://www.who.int/groups/immunization-and-vaccines-related-implementation-research-advisory-committee). I hold a visiting position at Imperial College London, within the MRC Centre for Global Infectious Disease Analysis. I completed my PhD (2017) at the Research School of Population Health at the Australian National University, under the supervision of Assoc Prof Kathryn Glass, and the late Prof Geoff Mercer. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.  
 
 ## Publications
 
@@ -121,6 +121,10 @@ Zapasnik J & **Hogan AB** (editors) (2014) *The ANU Undergraduate Research Journ
 Code is available via [GitHub](https://github.com/abhogan/). All code is open source and licensed under the MIT License.  
 
 ## Outreach and other work
+Featured in *Cosmos* magazine's article "Born to Ruler?" (December 2023 issue).  
+
+Invited talks for undergraduate and high school maths and science students.  
+
 Working Group for the Effects of COVID-19 on HIV, TB and Malaria (2020) What is the impact of COVID-19 on other diseases? *Biomedical Science Journal for Kids and Teens*. Available at [https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/](https://sciencejournalforkids.org/articles/what-is-the-impact-of-covid-19-on-other-diseases/).  
 
 My video for [Women in Mathematics Day 2020](https://youtu.be/yafI0yYPPcs), for the Australian Research Council Centre of Excellence for Mathematical & Statistical Frontiers (ACEMS). A compilation of messages from many women in mathematics is [here](https://youtu.be/_gKYHvsWePU).  
