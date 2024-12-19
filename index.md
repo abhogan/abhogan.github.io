@@ -10,7 +10,7 @@ www.imperial.ac.uk/people/a.hogan
 
 Funding: [NHMRC Investigator Grant](https://sph.med.unsw.edu.au/news/mathematical-modelling-support-policy-decisions-covid-19-vaccination-australia) Emerging Leader 1 
 
-<img src="SH23-Alexandra Hogan-0261 (2).jpg" width="200" class="float-right">
+<img src="Alexandra Hogan Headshot 1.jpg" width="350" class="float-right">
 
 ## Research activities  
 I work on mathematical models of infectious diseases, focussed on the public health impact of new vaccines. The focus of my current research is to develop dynamic models to help inform longer term planning of ongoing COVID-19 vaccination programs in Australia and the broader region. I also work on models for for respiratory syncytial virus (RSV) transmission and vaccination, to inform target product profiles for RSV vaccines.  
@@ -22,6 +22,13 @@ I have previously worked on estimating the public health impact of the RTS,S/AS0
 I am a member of the World Health Organization Immunization and vaccines related implementation research advisory committee [(IVIR-AC)](https://www.who.int/groups/immunization-and-vaccines-related-implementation-research-advisory-committee). I hold a visiting position at Imperial College London, within the MRC Centre for Global Infectious Disease Analysis. I completed my PhD (2017) at the Research School of Population Health at the Australian National University, under the supervision of Assoc Prof Kathryn Glass, and the late Prof Geoff Mercer. I have a BSc (Honours I, Applied Mathematics, 2009) from the University of Sydney.  
 
 ## Publications
+
+### Media and commentary articles
+1. James Wood and **Alexandra Hogan**. [Will we have a COVID wave, spike or blip this Christmas? It depends where you live](https://theconversation.com/will-we-have-a-covid-wave-spike-or-blip-this-christmas-it-depends-where-you-live-245281). *The Conversation*. Published 13 December 2024.
+
+2. Meru Sheel and **Alexandra Hogan**. [154 million lives saved in 50 years: 5 charts on the global success of vaccines](https://theconversation.com/154-million-lives-saved-in-50-years-5-charts-on-the-global-success-of-vaccines-229707). *The Conversation*. Published 14 May 2024.
+   
+3. **Alexandra Hogan** (2024). [I traveled with my baby to an international meeting—with my institution’s help](https://www.science.org/content/article/i-traveled-my-baby-international-meeting-my-institution-s-help). *Science* Careers. Published 1 February 2024. Also see [UNSW Sydney article](https://www.inside.unsw.edu.au/campus-life/academic-travels-baby-career-dream-appointment-unsw-support). 
 
 ### Preprints  
 1. Le TP, Abell I, Comway E, ... **Hogan AB**, ... (2023). Modelling the impact of hybrid immunity on future COVID-19 epidemic waves. *medRxiv preprint*. DOI: [10.1101/2023.03.12.23287174](https://doi.org/10.1101/2023.03.12.23287174).  
