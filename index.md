@@ -31,20 +31,36 @@ I am a member of the World Health Organization Immunization and vaccines related
 3. **Alexandra Hogan** (2024). [I traveled with my baby to an international meeting—with my institution’s help](https://www.science.org/content/article/i-traveled-my-baby-international-meeting-my-institution-s-help). *Science* Careers. Published 1 February 2024. Also see [UNSW Sydney article](https://www.inside.unsw.edu.au/campus-life/academic-travels-baby-career-dream-appointment-unsw-support). 
 
 ### Preprints  
-1. Le TP, Abell I, Comway E, ... **Hogan AB**, ... (2023). Modelling the impact of hybrid immunity on future COVID-19 epidemic waves. *medRxiv preprint*. DOI: [10.1101/2023.03.12.23287174](https://doi.org/10.1101/2023.03.12.23287174).  
-
-2. Barnsley G, Olivera Mesa O, **Hogan AB**, ... (2023). Impact of 100 Days Vaccination Mission on COVID-19: A Mathematical Modelling Study. *SSRN Preprint*. [Access here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519550).  
+1. Whittaker C, Barnsley G, ... **Hogan AB**, ... (2024). Quantifying the impact of a broadly protective sarbecovirus vaccine in a future SARS-X pandemic. *medRxiv preprint*. DOI: [10.1101/2024.08.12.24311730](https://www.medrxiv.org/content/10.1101/2024.08.12.24311730v1).  
 
 ### Journal articles
-3. Bents S, Viboud C, Grenfell B, **Hogan AB**, Tempia S, von Gottber A, Moyes J, Walaza S, Cohen C, Baker R (2023). The impact of COVID-19 non-pharmaceutical interventions on future respiratory syncytial virus transmission in South Africa. *Influenza and Other Respiratory Viruses*. DOI: [10.1111/irv.13229](https://onlinelibrary.wiley.com/doi/10.1111/irv.13229).
+1. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 10–13 September 2024. *Vaccine*. 43. DOI: [10.1016/j.vaccine.2024.126519](https://doi.org/10.1016/j.vaccine.2024.126519).  
 
-4. **Hogan AB**, Wu SL, Toor J, ..., Ghani AC (2023). Long-term vaccination strategies to mitigate the impact of SARS-CoV-2 transmission: A modelling study. *PLoS Medicine*. DOI: [10.1371/journal.pmed.1004195](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004195).  
+2. Nazareno AL, Newall AT, Muscatello DJ, **Hogan AB**^, Wood JG^ (2024). Modelling the epidemiological impact of maternal respiratory syncytial virus (RSV) vaccination in Australia. *Vaccine* 42(26). DOI: [10.1016/j.vaccine.2024.126418](https://doi.org/10.1016/j.vaccine.2024.126418).  
 
-5. **Hogan AB**,... (2023). Estimating long-term vaccine effectiveness against SARS-CoV-2 variants: a model-based approach. *Nature Communications* 14. DOI: [10.1038/s41467-023-39736-3](https://www.nature.com/articles/s41467-023-39736-3).  
+3. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) ad hoc meeting, 28 June–1 July 2024. *Vaccine*. DOI: []().  
 
-6. Imai N, ..., **Hogan AB**, ... (2023). Quantifying the effect of delaying the second COVID-19 vaccine dose in England: a mathematical modelling study. DOI: [10.1016/S2468-2667(22)00337-1](https://www.sciencedirect.com/science/article/pii/S2468266722003371?via%3Dihub).  
+4. Le TP, Abell I, Comway E, ... **Hogan AB**, ... (2023). Modelling the impact of hybrid immunity on future COVID-19 epidemic waves. *medRxiv preprint*. DOI: [10.1101/2023.03.12.23287174](https://doi.org/10.1101/2023.03.12.23287174).
+   
+6. Barnsley G, Olivera Mesa O, **Hogan AB**, ... (2023). Impact of 100 Days Vaccination Mission on COVID-19: A Mathematical Modelling Study. *SSRN Preprint*. [Access here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519550).  
 
-7. Watson OJ, ..., **Hogan AB**, ... (2022). Global impact of the first year of COVID-19 vaccination: a mathematical modelling study. *Lancet Infectious Diseases*. 22(9). DOI: [10.1016/S1473-3099(22)00320-6](https://doi.org/10.1016/S1473-3099(22)00320-6).  
+7. Watson OJ & **Hogan AB**. Impact of COVID-19 vaccination programmes in Europe: lives saved and lessons learned. The Lancet Respiratory Medicine.
+
+8. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization’s immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 26 February... *Vaccine*. 42(15). DOI: [10.1016/j.vaccine.2024.02.014](https://pubmed.ncbi.nlm.nih.gov/38326131/).
+
+9. Giannini F, **Hogan AB**, Sarna M, Glass K, Moore HC (2024). Modelling respiratory syncytial virus age-specific risk of hospitalisation in term and preterm infants. *BMC Infectious Diseases*. 24(1). DOI: [](). 
+
+10. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization’s immunization and vaccines related implementation research advisory committee (IVIR-AC) meeting, Geneva, 11–13 September 2023. *Vaccine*. DOI: [10.1016/j.vaccine.2024.02.014](https://pubmed.ncbi.nlm.nih.gov/38326131/).
+
+11. Bents S, Viboud C, Grenfell B, **Hogan AB**, Tempia S, von Gottber A, Moyes J, Walaza S, Cohen C, Baker R (2023). The impact of COVID-19 non-pharmaceutical interventions on future respiratory syncytial virus transmission in South Africa. *Influenza and Other Respiratory Viruses*. DOI: [10.1111/irv.13229](https://onlinelibrary.wiley.com/doi/10.1111/irv.13229).
+
+12. **Hogan AB**, Wu SL, Toor J, ..., Ghani AC (2023). Long-term vaccination strategies to mitigate the impact of SARS-CoV-2 transmission: A modelling study. *PLoS Medicine*. DOI: [10.1371/journal.pmed.1004195](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004195).  
+
+13. **Hogan AB**,... (2023). Estimating long-term vaccine effectiveness against SARS-CoV-2 variants: a model-based approach. *Nature Communications* 14. DOI: [10.1038/s41467-023-39736-3](https://www.nature.com/articles/s41467-023-39736-3).  
+
+6. Imai N, ..., **Hogan AB**, ... (2023). Quantifying the effect of delaying the second COVID-19 vaccine dose in England: a mathematical modelling study. DOI: [10.1016/S2468-2667(22)00337-1](https://www.sciencedirect.com/science/article/pii/S2468266722003371?via%3Dihub).
+
+8. Watson OJ, ..., **Hogan AB**, ... (2022). Global impact of the first year of COVID-19 vaccination: a mathematical modelling study. *Lancet Infectious Diseases*. 22(9). DOI: [10.1016/S1473-3099(22)00320-6](https://doi.org/10.1016/S1473-3099(22)00320-6).  
 
 0. Thompson HA, **Hogan AB**, ... (2022). Seasonal use case for the RTS, S/AS01 malaria vaccine: a mathematical modelling study. *Lancet Global Health*. 10(12). DOI: [10.1016/S2214-109X(22)00416-8](https://www.sciencedirect.com/science/article/pii/S2214109X22004168?via%3Dihub).  
 
