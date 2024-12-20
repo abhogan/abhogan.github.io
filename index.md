@@ -36,19 +36,19 @@ I am a member of the World Health Organization Immunization and vaccines related
 ### Journal articles
 1. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 10–13 September 2024. *Vaccine*. 43. DOI: [10.1016/j.vaccine.2024.126519](https://doi.org/10.1016/j.vaccine.2024.126519).  
 
-2. Nazareno AL, Newall AT, Muscatello DJ, **Hogan AB**^, Wood JG^ (2024). Modelling the epidemiological impact of maternal respiratory syncytial virus (RSV) vaccination in Australia. *Vaccine* 42(26). DOI: [10.1016/j.vaccine.2024.126418](https://doi.org/10.1016/j.vaccine.2024.126418).  
+2. Nazareno AL, Newall AT, Muscatello DJ, **Hogan AB**^, Wood JG^ (2024). Modelling the epidemiological impact of maternal respiratory syncytial virus (RSV) vaccination in Australia. *Vaccine* 42(26). DOI: [10.1016/j.vaccine.2024.126418](https://doi.org/10.1016/j.vaccine.2024.126418). ^contributed equally.  
 
-3. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) ad hoc meeting, 28 June–1 July 2024. *Vaccine*. DOI: []().  
+3. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) ad hoc meeting, 28 June–1 July 2024. *Vaccine* 42(26). DOI: [10.1016/j.vaccine.2024.126307](https://doi.org/10.1016/j.vaccine.2024.126307).  
 
-4. Le TP, Abell I, Comway E, ... **Hogan AB**, ... (2023). Modelling the impact of hybrid immunity on future COVID-19 epidemic waves. *medRxiv preprint*. DOI: [10.1101/2023.03.12.23287174](https://doi.org/10.1101/2023.03.12.23287174).
+4. Le TP, Abell I, Comway E, ... **Hogan AB**, ... (2024). Modelling the impact of hybrid immunity on future COVID-19 epidemic waves. *BMC Infectious Diseases*. 24. DOI: [10.1186/s12879-024-09282-4](https://doi.org/10.1186/s12879-024-09282-4).  
    
-6. Barnsley G, Olivera Mesa O, **Hogan AB**, ... (2023). Impact of 100 Days Vaccination Mission on COVID-19: A Mathematical Modelling Study. *SSRN Preprint*. [Access here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519550).  
+6. Barnsley G, Olivera Mesa O, **Hogan AB**, ... (2024). Impact of the 100 days mission for vaccines on COVID-19: a mathematical modelling study. *The Lancet Global Health*. DOI: [access here](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24)00286-9/fulltext).  
 
-7. Watson OJ & **Hogan AB**. Impact of COVID-19 vaccination programmes in Europe: lives saved and lessons learned. The Lancet Respiratory Medicine.
+7. Watson OJ & **Hogan AB** (2024). Impact of COVID-19 vaccination programmes in Europe: lives saved and lessons learned. *The Lancet Respiratory Medicine*. 12(9). [Access here](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(24)00214-5/fulltext).  
 
-8. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization’s immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 26 February... *Vaccine*. 42(15). DOI: [10.1016/j.vaccine.2024.02.014](https://pubmed.ncbi.nlm.nih.gov/38326131/).
+8. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization’s immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 26 February–1 March 2024. *Vaccine*. 42(15). DOI: [10.1016/j.vaccine.2024.04.057](https://doi.org/10.1016/j.vaccine.2024.04.057).  
 
-9. Giannini F, **Hogan AB**, Sarna M, Glass K, Moore HC (2024). Modelling respiratory syncytial virus age-specific risk of hospitalisation in term and preterm infants. *BMC Infectious Diseases*. 24(1). DOI: [](). 
+9. Giannini F, **Hogan AB**, Sarna M, Glass K, Moore HC (2024). Modelling respiratory syncytial virus age-specific risk of hospitalisation in term and preterm infants. *BMC Infectious Diseases*. 24(1). DOI: [10.1186/s12879-024-09400-2](https://doi.org/10.1186/s12879-024-09400-2). 
 
 10. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization’s immunization and vaccines related implementation research advisory committee (IVIR-AC) meeting, Geneva, 11–13 September 2023. *Vaccine*. DOI: [10.1016/j.vaccine.2024.02.014](https://pubmed.ncbi.nlm.nih.gov/38326131/).
 
