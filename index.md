@@ -34,6 +34,8 @@ I am a member of the World Health Organization Immunization and vaccines related
 1. Whittaker C, Barnsley G, ... **Hogan AB**, ... (2024). Quantifying the impact of a broadly protective sarbecovirus vaccine in a future SARS-X pandemic. *medRxiv preprint*. DOI: [10.1101/2024.08.12.24311730](https://www.medrxiv.org/content/10.1101/2024.08.12.24311730v1).  
 
 ### Journal articles
+1. Nazareno AL, ..., **Hogan AB**, ... (2025). Estimating the cost-effectiveness of maternal respiratory syncytial virus (RSV) vaccination in Australia: A dynamic and economic modelling analysis. *Vaccine*. DOI:[10.1016/j.vaccine.2024.126651](https://www.sciencedirect.com/science/article/pii/S0264410X24013331).  
+
 1. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 10–13 September 2024. *Vaccine*. 43. DOI: [10.1016/j.vaccine.2024.126519](https://doi.org/10.1016/j.vaccine.2024.126519).  
 
 2. Nazareno AL, Newall AT, Muscatello DJ, **Hogan AB**^, Wood JG^ (2024). Modelling the epidemiological impact of maternal respiratory syncytial virus (RSV) vaccination in Australia. *Vaccine* 42(26). DOI: [10.1016/j.vaccine.2024.126418](https://doi.org/10.1016/j.vaccine.2024.126418). ^contributed equally.  
