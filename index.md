@@ -30,26 +30,26 @@ I am a member of the World Health Organization Immunization and vaccines related
 3. **Alexandra Hogan** (2024). [I traveled with my baby to an international meeting—with my institution’s help](https://www.science.org/content/article/i-traveled-my-baby-international-meeting-my-institution-s-help). *Science* Careers. Published 1 February 2024. Also see [UNSW Sydney article](https://www.inside.unsw.edu.au/campus-life/academic-travels-baby-career-dream-appointment-unsw-support). 
 
 ### Preprints  
-1. Whittaker C, Barnsley G, ... **Hogan AB**, ... (2024). Quantifying the impact of a broadly protective sarbecovirus vaccine in a future SARS-X pandemic. *medRxiv preprint*. DOI: [10.1101/2024.08.12.24311730](https://www.medrxiv.org/content/10.1101/2024.08.12.24311730v1).  
+1.  **Hogan AB**, Mitchell A, Stadler E, Chung Y, Reynaldi A, Elias KM, et al. (2026) Quantifying the association between neutralising antibodies and protection from RSV disease in infants and adults: A systematic review and meta-analysis. DOI: [https://doi.org/10.64898/2026.02.13.26346212] 
+
+2.  **Hogan AB**, Muscatello DJ, Liu B, Nedjati-Gilani G, & Wood JG (2025) Capturing SARS-CoV-2 immune landscapes to inform future strategies for COVID-19 vaccination in a high-income setting: a mathematical modelling study. DOI: [https://doi.org/10.1101/2025.03.18.25324222] 
 
 ### Journal articles
-1.  Whittaker C, Barnsley G, Mesa DO, Cox V, Laydon DJ, Tan CW, et al. (2025) Quantifying the impact of a broadly protective sarbecovirus vaccine in a future SARS-X pandemic. Nat Commun 16(1):8495. DOI: https://doi.org/10.1038/s41467-025-63399-x
+1.  Muscatello DJ, Rose N, Paul KK, **Hogan AB**, Dyda A, Dinh MM, et al. (2026) An adaptive method of emergency department syndromic surveillance to nowcast the frequency of presentations that will have a severe 28-day outcome following influenza or COVID-19 infection: a retrospective analytical record linkage study. American Journal of Epidemiology :kwag028. DOI: [https://doi.org/10.1093/aje/kwag028] 
 
-3.  Nazareno AL, Wood JG, Muscatello DJ, Homaira N, **Hogan AB** & Newall AT (2025) Estimating the cost-effectiveness of maternal respiratory syncytial virus (RSV) vaccination in Australia: A dynamic and economic modelling analysis. Vaccine 46:126651. DOI: https://doi.org/10.1016/j.vaccine.2024.126651
+1.  Whittaker C, Barnsley G, Mesa DO, Cox V, Laydon DJ, Tan CW, ... **Hogan AB**, ... et al. (2025) Quantifying the impact of a broadly protective sarbecovirus vaccine in a future SARS-X pandemic. Nat Commun 16(1):8495. DOI: [https://doi.org/10.1038/s41467-025-63399-x]
+
+3.  Nazareno AL, Wood JG, Muscatello DJ, Homaira N, **Hogan AB** & Newall AT (2025) Estimating the cost-effectiveness of maternal respiratory syncytial virus (RSV) vaccination in Australia: A dynamic and economic modelling analysis. Vaccine 46:126651. DOI: [https://doi.org/10.1016/j.vaccine.2024.126651]
    
-5.  Lambach P, Silal S, Sbarra AN, Koh M, Aggarwal R, Farooqui HH, et al. (2025) Report from the World Health Organization’s immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 17–21 February 2025. Vaccine 61:127384. DOI: https://doi.org/10.1016/j.vaccine.2025.127384
+5.  Lambach P, Silal S, Sbarra AN, Koh M, Aggarwal R, Farooqui HH, ... **Hogan AB**, ... et al. (2025) Report from the World Health Organization’s immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 17–21 February 2025. Vaccine 61:127384. DOI: [https://doi.org/10.1016/j.vaccine.2025.127384]
 
-7.  Lambach P, Silal S, Sbarra AN, Koh M, Aggarwal R, Farooqui HH, et al. (2025) Report from the World Health Organization’s immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 10–13 September 2024. Vaccine 43:126519. DOI: https://doi.org/10.1016/j.vaccine.2024.126519
+7.  Lambach P, Silal S, Sbarra AN, Koh M, Aggarwal R, Farooqui HH, ... **Hogan AB**, ... et al. (2025) Report from the World Health Organization’s immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 10–13 September 2024. Vaccine 43:126519. DOI: https://doi.org/10.1016/j.vaccine.2024.126519
 
-9.  Lambach P, Silal S, Sbarra AN, Koh M, Aggarwal R, Farooqui HH, et al. (2025) Report from the World Health Organization’s Immunization and Vaccines-related Implementation Research Advisory Committee (IVIR-AC) meeting, virtual gathering, 1–5 September 2025. Vaccine 68:127903. DOI: https://doi.org/10.1016/j.vaccine.2025.127903
+9.  Lambach P, Silal S, Sbarra AN, Koh M, Aggarwal R, Farooqui HH, ... **Hogan AB**, ... et al. (2025) Report from the World Health Organization’s Immunization and Vaccines-related Implementation Research Advisory Committee (IVIR-AC) meeting, virtual gathering, 1–5 September 2025. Vaccine 68:127903. DOI: https://doi.org/10.1016/j.vaccine.2025.127903
    
 11.  Giannini F, **Hogan AB**, Cameron E, Le H, Minney-Smith C, Richmond P, et al. (2025) Estimating the impact of Western Australia’s first respiratory syncytial virus immunisation program for all infants: A mathematical modelling study. Vaccine 56:127155. DOI: https://doi.org/10.1016/j.vaccine.2025.127155
     
 13.  Bicego A, Wood JG, Newall AT, & **Hogan AB** (2025) Effectiveness of maternal vaccines and long-acting monoclonal antibodies against respiratory syncytial virus disease burden in early life: a scoping review of dynamic modelling studies. Vaccine 68:127868. DOI: https://doi.org/10.1016/j.vaccine.2025.127868 
-
-1. Nazareno AL, ..., **Hogan AB**, ... (2025). Estimating the cost-effectiveness of maternal respiratory syncytial virus (RSV) vaccination in Australia: A dynamic and economic modelling analysis. *Vaccine*. DOI:[10.1016/j.vaccine.2024.126651](https://www.sciencedirect.com/science/article/pii/S0264410X24013331).  
-
-1. Lambach P, ..., **Hogan AB**, ... (2024). Report from the World Health Organization's immunization and vaccines-related implementation research advisory committee (IVIR-AC) meeting, virtual gathering, 10–13 September 2024. *Vaccine*. 43. DOI: [10.1016/j.vaccine.2024.126519](https://doi.org/10.1016/j.vaccine.2024.126519).  
 
 2. Nazareno AL, Newall AT, Muscatello DJ, **Hogan AB**^, Wood JG^ (2024). Modelling the epidemiological impact of maternal respiratory syncytial virus (RSV) vaccination in Australia. *Vaccine* 42(26). DOI: [10.1016/j.vaccine.2024.126418](https://doi.org/10.1016/j.vaccine.2024.126418). ^contributed equally.  
 
