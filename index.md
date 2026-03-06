@@ -30,9 +30,11 @@ I am a member of the World Health Organization Immunization and vaccines related
 3. **Alexandra Hogan** (2024). [I traveled with my baby to an international meeting—with my institution’s help](https://www.science.org/content/article/i-traveled-my-baby-international-meeting-my-institution-s-help). *Science* Careers. Published 1 February 2024. Also see [UNSW Sydney article](https://www.inside.unsw.edu.au/campus-life/academic-travels-baby-career-dream-appointment-unsw-support). 
 
 ### Preprints  
-1.  **Hogan AB**, Mitchell A, Stadler E, Chung Y, Reynaldi A, Elias KM, et al. (2026) Quantifying the association between neutralising antibodies and protection from RSV disease in infants and adults: A systematic review and meta-analysis. DOI: [https://doi.org/10.64898/2026.02.13.26346212] 
+1.  Giannini F, **Hogan AB**, Blyth CC, Glass K, & Moore HC (2026) Modelling the impact of long-acting monoclonal antibody, maternal vaccine and hybrid programs of RSV immunisation in temperate Western Australia. DOI: [https://doi.org/10.64898/2026.03.02.26347477] 
+  
+3.  **Hogan AB**, Mitchell A, Stadler E, Chung Y, Reynaldi A, Elias KM, et al. (2026) Quantifying the association between neutralising antibodies and protection from RSV disease in infants and adults: A systematic review and meta-analysis. DOI: [https://doi.org/10.64898/2026.02.13.26346212] 
 
-2.  **Hogan AB**, Muscatello DJ, Liu B, Nedjati-Gilani G, & Wood JG (2025) Capturing SARS-CoV-2 immune landscapes to inform future strategies for COVID-19 vaccination in a high-income setting: a mathematical modelling study. DOI: [https://doi.org/10.1101/2025.03.18.25324222] 
+4.  **Hogan AB**, Muscatello DJ, Liu B, Nedjati-Gilani G, & Wood JG (2025) Capturing SARS-CoV-2 immune landscapes to inform future strategies for COVID-19 vaccination in a high-income setting: a mathematical modelling study. DOI: [https://doi.org/10.1101/2025.03.18.25324222] 
 
 ### Journal articles
 1.  Muscatello DJ, Rose N, Paul KK, **Hogan AB**, Dyda A, Dinh MM, et al. (2026) An adaptive method of emergency department syndromic surveillance to nowcast the frequency of presentations that will have a severe 28-day outcome following influenza or COVID-19 infection: a retrospective analytical record linkage study. _American Journal of Epidemiology_ :kwag028. DOI: [https://doi.org/10.1093/aje/kwag028] 
